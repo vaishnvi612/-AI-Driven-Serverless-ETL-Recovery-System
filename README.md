@@ -225,7 +225,7 @@ AI-Driven-Serverless-ETL-Recovery-System
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yashbhat29/AI-Driven-Serverless-ETL-Recovery-System.git
+git clone (https://github.com/vaishnvi612/-AI-Driven-Serverless-ETL-Recovery-System.git)
 ```
 
 ## Navigate
@@ -257,15 +257,12 @@ pip install -r requirements.txt
 
 # 👨‍💻 Authors
 
-### Yash Vinod Bhat
+### Vaishnavi Khande
 
 Artificial Intelligence & Data Science Engineer
 
 GitHub:
-https://github.com/yashbhat29
-
-LinkedIn:
-www.linkedin.com/in/yash-bhat-9536a03b1
+https://(https://github.com/vaishnvi612)
 
 ---
 
